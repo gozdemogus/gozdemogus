@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Graduated from electrical and electronics engineering, worked as SAP MII Technical Consultant / Developer for more than a year, currently working as software development assistant specialist.
+
+I have mostly experience on JavaScript,C#, .NET Technologies.
+
+
+
 <!--
 **gozdemogus/gozdemogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
