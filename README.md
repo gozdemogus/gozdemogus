@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Graduated from electrical and electronics engineering, worked as SAP MII Technical Consultant / Developer for more than a year, currently working as software development assistant specialist.
+Graduated from electrical and electronics engineering, worked as SAP MII Technical Consultant / Developer for more than a year, currently working as software Development Assistant Specialist.
 
 I have mostly experience on JavaScript,C#, .NET Technologies.
 
