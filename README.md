@@ -2,9 +2,6 @@
 
  <h1 align="center">Hi There! I'm Gözdem</h1>
 <h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=4CFF33&multiline=true&width=1200&lines=Software+Developer+)](https://git.io/typing-svg)
-
 </h3>
 
 ### About Me 
@@ -26,9 +23,6 @@ I am passionate about software development, expanding my knowledge, solving prob
 </p>
 
   <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gozdemogus)](https://git.io/streak-stats)
-
 </div>
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer)
